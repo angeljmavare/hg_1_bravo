@@ -6,4 +6,4 @@ Encargado del repo: Angel J Mavare (Bravo)
 | Angel J  | Bravo   |
 | José A   | Charlie |
 | Hector R | Delta   | 
-| José O   | Echo    |
+| José O   | Echo    | 
